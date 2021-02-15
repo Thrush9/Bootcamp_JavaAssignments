@@ -1,0 +1,1 @@
+This file is created to maintain maven structure in Git. It can be deleted.
